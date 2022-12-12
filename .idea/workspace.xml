@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="673ba46d-111a-4601-8233-d6ed48e8f1e4" name="Changes" comment="" />
+    <list default="true" id="673ba46d-111a-4601-8233-d6ed48e8f1e4" name="Changes" comment="DZ_22" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2IN9n9Xh6X2hySIGYZsajN3jgoB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,10 +39,30 @@
       <workItem from="1670011341957" duration="36000" />
       <workItem from="1670800345585" duration="622000" />
       <workItem from="1670801111758" duration="10000" />
+      <workItem from="1670874638780" duration="313000" />
     </task>
+    <task id="LOCAL-00001" summary="DZ_22">
+      <created>1670874862194</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670874862194</updated>
+    </task>
+    <task id="LOCAL-00002" summary="DZ_22">
+      <created>1670874888568</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670874888568</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="DZ_22" />
+    <option name="LAST_COMMIT_MESSAGE" value="DZ_22" />
   </component>
 </project>
