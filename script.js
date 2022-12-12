@@ -12,7 +12,7 @@ function convert(object) {
     const newObj = {};
 
     for(let key in object) {
-        if(typeof object[key] === "object" && !Array.isArray(object[key])) {
+        if(typeof object[key] === "object") {
             Object.assign(newObj, convert(object[key]));
         } else {
             newObj[key] = object[key];
