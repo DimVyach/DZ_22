@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="673ba46d-111a-4601-8233-d6ed48e8f1e4" name="Changes" comment="DZ_22" />
+    <list default="true" id="673ba46d-111a-4601-8233-d6ed48e8f1e4" name="Changes" comment="DZ_22">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Архив.zip" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +45,8 @@
       <workItem from="1670800345585" duration="622000" />
       <workItem from="1670801111758" duration="10000" />
       <workItem from="1670874638780" duration="313000" />
+      <workItem from="1670875461071" duration="249000" />
+      <workItem from="1670878378347" duration="998000" />
     </task>
     <task id="LOCAL-00001" summary="DZ_22">
       <created>1670874862194</created>

@@ -1,25 +1,27 @@
-obj = {
+
+const obj1 = {
     x: 10,
     y: 20,
-    inner: {
-        x: 20,
-        z: 30},
-    foo2: {
-        k: 23,
-        p: 13}
 };
-function convert(object) {
-    const newObj = {};
-
-    for(let key in object) {
-        if(typeof object[key] === "object" && !Array.isArray(object[key])) {
-            Object.assign(newObj, convert(object[key]));
-        } else {
-            newObj[key] = object[key];
-        }
+const obj2 = {
+    z: 30,
+} ;
+const objOne = {
+    x: 10,
+};
+const objTwo = {
+    x: 20,
+    y: 30,
+};
+function assignObjects(objOne,objTwo) {
+    let newObj = {};
+    for (let key in objOne) {
+        newObj[key] = objOne[key];
     }
-
+    for (let key in objTwo) {
+        newObj[key] = objTwo[key];
+    }
     return newObj;
 }
-
-console.log(convert(obj));
+console.log(assignObjects(obj1,obj2));
+console.log(assignObjects(objOne,objTwo));
