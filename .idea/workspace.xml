@@ -44,6 +44,7 @@
       <workItem from="1670801111758" duration="10000" />
       <workItem from="1670874638780" duration="724000" />
       <workItem from="1670875443232" duration="1000" />
+      <workItem from="1670875766800" duration="928000" />
     </task>
     <task id="LOCAL-00001" summary="DZ_22">
       <created>1670874862194</created>
@@ -66,7 +67,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670875021847</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="DZ_22">
+      <created>1670875835937</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670875835937</updated>
+    </task>
+    <task id="LOCAL-00005" summary="DZ_22">
+      <created>1670875872000</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1670875872000</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,10 +92,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="DZ_22" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="234" y="25" key="CommitChangelistDialog2" timestamp="1670875021536">
+    <state x="234" y="25" key="CommitChangelistDialog2" timestamp="1670875871745">
       <screen x="0" y="25" width="1280" height="702" />
     </state>
-    <state x="234" y="25" key="CommitChangelistDialog2/0.25.1280.702@0.25.1280.702" timestamp="1670875021536" />
+    <state x="234" y="25" key="CommitChangelistDialog2/0.25.1280.702@0.25.1280.702" timestamp="1670875871745" />
     <state x="442" y="288" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1670875035677">
       <screen x="0" y="25" width="1280" height="702" />
     </state>
