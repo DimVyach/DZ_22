@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="673ba46d-111a-4601-8233-d6ed48e8f1e4" name="Changes" comment="DZ_22">
+    <list default="true" id="673ba46d-111a-4601-8233-d6ed48e8f1e4" name="Changes" comment="DZ_23">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +43,9 @@
       <workItem from="1670801111758" duration="10000" />
       <workItem from="1670874638780" duration="313000" />
       <workItem from="1670875461071" duration="249000" />
-      <workItem from="1670878378347" duration="2294000" />
+      <workItem from="1670878378347" duration="2940000" />
+      <workItem from="1670963196459" duration="88000" />
+      <workItem from="1670963314665" duration="369000" />
     </task>
     <task id="LOCAL-00001" summary="DZ_22">
       <created>1670874862194</created>
@@ -73,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670887059810</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="DZ_23">
+      <created>1670887794183</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1670887794183</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,9 +94,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="DZ_23" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="240" y="25" key="CommitChangelistDialog2" timestamp="1670887059557">
+    <state x="240" y="25" key="CommitChangelistDialog2" timestamp="1670887793921">
       <screen x="0" y="25" width="1280" height="702" />
     </state>
-    <state x="240" y="25" key="CommitChangelistDialog2/0.25.1280.702@0.25.1280.702" timestamp="1670887059557" />
+    <state x="240" y="25" key="CommitChangelistDialog2/0.25.1280.702@0.25.1280.702" timestamp="1670887793921" />
   </component>
 </project>
