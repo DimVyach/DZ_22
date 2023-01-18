@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="673ba46d-111a-4601-8233-d6ed48e8f1e4" name="Changes" comment="DZ_23">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +46,17 @@
       <workItem from="1670875461071" duration="249000" />
       <workItem from="1670878378347" duration="2940000" />
       <workItem from="1670963196459" duration="88000" />
-      <workItem from="1670963314665" duration="369000" />
+      <workItem from="1670963314665" duration="788000" />
+      <workItem from="1670964146074" duration="80000" />
+      <workItem from="1670964232540" duration="34000" />
+      <workItem from="1670964321738" duration="236000" />
+      <workItem from="1670964594583" duration="15000" />
+      <workItem from="1670964620043" duration="167000" />
+      <workItem from="1671046192703" duration="176000" />
+      <workItem from="1671910513248" duration="4630000" />
+      <workItem from="1671968904378" duration="427000" />
+      <workItem from="1672006198887" duration="1179000" />
+      <workItem from="1673964911395" duration="712000" />
     </task>
     <task id="LOCAL-00001" summary="DZ_22">
       <created>1670874862194</created>
@@ -82,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670887794183</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="DZ_23">
+      <created>1670963692522</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1670963692522</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,9 +112,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="DZ_23" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="240" y="25" key="CommitChangelistDialog2" timestamp="1670887793921">
+    <state x="240" y="25" key="CommitChangelistDialog2" timestamp="1670964202055">
       <screen x="0" y="25" width="1280" height="702" />
     </state>
-    <state x="240" y="25" key="CommitChangelistDialog2/0.25.1280.702@0.25.1280.702" timestamp="1670887793921" />
+    <state x="240" y="25" key="CommitChangelistDialog2/0.25.1280.702@0.25.1280.702" timestamp="1670964202055" />
   </component>
 </project>
